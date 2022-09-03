@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdl22
+- 👋 Hi, I’m @Abdul
 - 👀 I’m interested in Analytics    
 - 🌱 I’m currently learning R language  
 - 💞️ I’m looking to collaborate on data visualization
